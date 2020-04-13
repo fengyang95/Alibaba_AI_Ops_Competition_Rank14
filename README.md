@@ -1,4 +1,5 @@
 # [天池智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/231775/introduction)-fengyang95-Rank14
+[天池智能运维大赛2020踩坑分享](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.15.3f9a77c3U6M5tP&postId=102983)
 ## 解决方案
 1. 利用pyspark处理原始log数据，打标签
 2. 特征包括 原始特征+窗口特征+组合特征
